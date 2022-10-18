@@ -1,0 +1,3 @@
+table:
+  name: newUsers
+  schema: public
